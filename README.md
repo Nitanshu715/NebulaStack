@@ -1,6 +1,7 @@
-
-# 🌌 NebulaStack  
-### 🚀 Production‑Grade Cloud Native Deployment | Docker • AWS • Terraform • PostgreSQL
+<p align="center">
+  <b> # 🌌 NebulaStack </b>
+  <b> ### 🚀 Production‑Grade Cloud Native Deployment | Docker • AWS • Terraform • PostgreSQL </b>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=for-the-badge&logo=amazonaws">
