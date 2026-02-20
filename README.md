@@ -1,6 +1,9 @@
 <p align="center">
-  <kbd>🌌</kbd> <b>NebulaStack</b> <br>
-  <b>🚀 Production‑Grade Cloud Native Deployment | Docker • AWS • Terraform • PostgreSQL</b>
+  <h1 align="center">🌌 NebulaStack</h1>
+  <h3 align="center">🚀 Production‑Grade Cloud Native Deployment</h3>
+  <p align="center">
+    <b>Docker • AWS • Terraform • PostgreSQL</b>
+  </p>
 </p>
 
 <p align="center">
